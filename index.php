@@ -12,6 +12,19 @@ Yazılımın geliştirilme tarihi: 04.06.2022
 */
 include_once'config/settings.php';
 ?>
+
+<!-- 
+
+Bu yazılım Eser Sarıyar tarafından geliştirilmiştir. Yazılımın çeşitli alanlarının düzenlenmesi serbesttir.
+
+- Copyright metinlerinin silinmesi yasaktır. (Örneğin: Eser Sarıyar metni gibi)
+- Yazılımın satılması kesinlikle yasaktır.
+- Yazılım GitHub üzerinde paylaşılacaksa, Eser Sarıyar'ın paylaşmış olduğu repositorie üzerinden fork aracılığı ile paylaşılabilir.
+
+
+Yazılımın geliştirilme tarihi: 04.06.2022
+
+-->
 <html>
   <head>
     <meta charset="utf-8">
