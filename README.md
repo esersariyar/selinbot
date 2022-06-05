@@ -20,6 +20,12 @@ Yazılımın geliştirilme tarihi: 04.06.2022
 - Son olarak config/settings.php dosyasını açarak veritabanı bilgilerinizi ve değiştirmek istediğiniz bot ayarlarını güncelleyerek kayıt ediniz.
 - Sitenize giderek botu kullanmaya başlayabilirsiniz.
 
+### ⭐️ Bağış (Projelerimi geliştirmemde katkınız olsun)
+
+<b>Ziraat Bankası</b><br>
+Eser Sarıyar<br>
+TR78 0001 0017 5897 1562 4150 01
+
 ## [English]
 Selin BOT is an artificial intelligence developed with PHP.
 
@@ -40,3 +46,9 @@ Software development date: 04.06.2022
 - Then import the sql file named meetweb_bot.sql in your database.
 - Finally, open the config/settings.php file and update your database information and the bot settings you want to change and save.
 - You can start using the bot by going to your site.
+
+### ⭐️ Donate (Support me to develop my projects)
+
+<b>Ziraat Bankası</b><br>
+Eser Sarıyar<br>
+TR78 0001 0017 5897 1562 4150 01
